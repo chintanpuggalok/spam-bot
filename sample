@@ -1,0 +1,14 @@
+https://mbasic.facebook.com/composer/mbasic/?csid=ab93e7fc-8f53-4724-8057-2b71b234bb12&view_overview&av=100048161391031&eav=AfYJPkCcYuzKK5bkmsPw0c_y7B9dweQxiJ72jjfZODgUrIlu8lOwlowMW0Q6zCZ7Y6o&_rdr
+
+https://mbasic.facebook.com/composer/mbasic/?mnt_query&prompt_id&prompt_tracking_string&csid=9f4f6ace-6a54-41e0-9343-e915ad6cea50&ctype=inline&errcode=0&cwevent=composer_entry&tag_friends_query&filter_type=0&av=100048161391031&rst_icv&icv&ogi_offset=0&ogi_limit=0&lat&lon&pos&x-acc=0&view_overview&_rdr
+
+frame = driver.find_element_by_xpath('//frame[@name="main"]')
+driver.switch_to.frame(frame)
+
+/html/body/div/div/div[2]/div/table/tbody/tr/td/div/form/input[18]
+
+.bk > div:nth-child(2) > ul:nth-child(2) > li:nth-child(1) > table:nth-child(1) > tbody:nth-child(1) > tr:nth-child(1) > td:nth-child(1) > a:nth-child(1)
+
+/html/body/div/div/div[2]/div/table/tbody/tr/td/div[2]/ul/li[1]/table/tbody/tr/td[1]/a
+
+/html/body/div/div/div[2]/div/table/tbody/tr/td/div[2]/ul/li[2]/table/tbody/tr/td[1]/a
